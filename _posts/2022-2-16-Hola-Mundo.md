@@ -4,7 +4,7 @@ title: Primer Post!
 ---
 
 Hola mundo, este es mi primer post!
-![morteruelo con]({{ site.baseurl }}/images/morteruelo.png)
+![morteruelo con](/images/morteruelo.png)
 
 ## Sección 1
 
